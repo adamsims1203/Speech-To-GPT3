@@ -29,14 +29,6 @@ Once the application is running, you can use it to chat with the OpenAI API. Sim
 
 To generate an image based on your input, type "generate an image: " followed by your desired prompt. The app will then send the prompt to the OpenAI API, which will generate an image based on the text. The image will be displayed in the chat body along with your message.
 
-### `Screenshot`
-![image](https://user-images.githubusercontent.com/42762798/226215544-70b16c90-d5c1-4c13-b218-eab84a922d03.png)
-
-
-### `Image generation`
-
-![image](https://user-images.githubusercontent.com/42762798/226215987-b6bf0784-7dba-4234-abfb-5652d03b43db.png)
-
 
 ### `Build Instructions`
 
